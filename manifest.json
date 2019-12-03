@@ -1,0 +1,12 @@
+{
+    "name":"Email Spam Filter",
+    "version":"1.0",
+    "description":"This extension will find spam emails by nikkithegr8",
+
+    "browser_action":{
+        "default_popup":"index.html"
+    },
+
+    "permissions":["storage"],
+    "manifest_version":2
+}
